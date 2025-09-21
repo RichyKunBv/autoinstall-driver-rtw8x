@@ -81,7 +81,7 @@ function instalar_dependencias() {
 
 function instalar_driver() {
         echo "› Revisando algo..."
-        rm -rf rtw88
+        rm -rf rtw89
 
         echo -e "${ROJO}  Clonando repo del driver.${DEFAULT}"
         git clone https://github.com/lwfinger/rtw89.git
