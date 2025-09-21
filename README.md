@@ -66,12 +66,12 @@ You need an active internet connection (e.g., via Ethernet or USB tethering) to 
 
 1.  **Download the script and make it executable:**
     ```bash
-    chmod +x autoinstall-beta-rt88.sh
+    chmod +x autoinstall-beta-rtw88.sh
     ```
 
 2.  **Run the script with root privileges:**
     ```bash
-    sudo ./autoinstall-beta-rt88.sh
+    sudo ./autoinstall-beta-rtw88.sh
     ```
 
 3.  **Follow the on-screen instructions.**
