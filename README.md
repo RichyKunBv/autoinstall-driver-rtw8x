@@ -1,4 +1,4 @@
-# autoinstall-driver-RT8x
+# autoinstall-driver-rtw8x
 
 <div align="center">
 
