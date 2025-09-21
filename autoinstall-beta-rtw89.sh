@@ -108,7 +108,7 @@ fi
 while true; do
     echo -e "\n${VERDE}--- Asistente de Instalacion de Driver ---${DEFAULT}"
     echo -e "${VERDE}--- Distribución: $DISTRO (Familia: $DISTRO_FAMILIA) ---${DEFAULT}"
-    echo "  1. Instalar Driver RT88"
+    echo "  1. Instalar Driver RT89"
     echo -e "  ${ROJO}X. Salir${DEFAULT}"
     read -p "  Selecciona una opción: " opcion
 
